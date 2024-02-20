@@ -1,11 +1,11 @@
 ### Howdy there 👋🤠
 
-☕ I'm a JavaScript native,
-🐍 but a Python lover at heart <3
-🔭 I'm currently working on Savant, a poetsorg/genius hybrid
-💬 Ask me about my photography, I shoot 35mm on a Nikon FG and Nikon Coolpix p510
-📫 Let's link up on linked in 
-🌱 Fun fact: I'm bilingual, and tentatively working on learning French  
+* ☕ I'm a JavaScript native,
+* 🐍 but a Python lover at heart <3
+* 🔭 I'm currently working on Savant, a poetsorg/genius hybrid
+* 💬 Ask me about my photography, I shoot 35mm on a Nikon FG and Nikon Coolpix p510
+* 📫 Let's link up on linked in 
+* 🌱 Fun fact: I'm bilingual, and tentatively working on learning French  
 <!--
 **jjlazo/jjlazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
